@@ -1,0 +1,7 @@
+#define DPAD_BUTTONS 0x01
+#define ORIENTATION 0x02
+#define ACCELERATION 0x03
+#define BUTTONS 0x04
+#define AXISXY 0x05
+
+#define PKG_END 0x00
