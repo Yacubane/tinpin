@@ -17,11 +17,13 @@ TinPin is an open-source gamepad project, which aims to create wireless motion g
 * Possibility to create custom mapping for games
 
 ## :book: Documentation
+<div align="justify">
 Documentation is available [here](https://1drv.ms/b/s!Ap19wJ6OUb8Y_C6AiVWxbAW8CylH?e=whoII0). It covers both parts of the controller (The motion controller itself and the controller dongle) in the way of hardware (used parts, schematics, building process) and software (calibration, indicators, communication, used libraries).
+</div>
 
 ## :electric_plug:	Usages
 
-# :video_game: Video games
+### :video_game: Video games
 Tested games:
 * [TinPin Musical Adventure](https://github.com/BluValor/TinPin-Musical-Adventure) - game written to test motion controller
 <img src="https://raw.githubusercontent.com/jakubdybczak/tinpin/master/readme/tinpin1.png" alt="TinPin Musical Adventure in-game" width="600">
@@ -33,7 +35,7 @@ Tested games:
 * Ace Combat: Assault Horizon
 <img src="https://raw.githubusercontent.com/jakubdybczak/tinpin/master/readme/ace_combat2.png" alt="Ace Combat: Assault Horizon" width="600">
 
-# :computer_mouse: Computer mouse
+### :computer_mouse: Computer mouse
 <img src="https://raw.githubusercontent.com/jakubdybczak/tinpin/master/readme/mouse1.png" alt="Computer Mouse" width="600">
 
 Made by Jakub Dybczak & Jakub Zajma
